@@ -1,0 +1,26 @@
+{
+  "name": "practice_december_21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app2.js"
+  },
+  "author": "sabath rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sabathrodriguez/node.js-practice/issues"
+  },
+  "homepage": "https://github.com/Sabathrodriguez/node.js-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "pug": "^2.0.4"
+  }
+}
